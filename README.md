@@ -1,6 +1,3 @@
-# random-game-in-c
-
-
 #include <stdio.h>
 #include <time.h>
 #include <stdbool.h>
